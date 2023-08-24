@@ -1,7 +1,7 @@
 <h1 align="center">Oi, me chamo Natália Marques.</h1>
 <h3 align="center">
  I have experience in developing custom web applications for data visualization and implementing unsupervised machine learning. During my undergraduate studies, I took on the responsibility for prototyping and full coding of institutional research projects. I was involved in both defining the system architecture (cluster scaling, integration, scalability, distribution, and workflow parallelization) and in the data science aspect (data processing and clustering, exploratory analysis, and visualization of results). Additionally, I led the secure deployment process of the developed web apps. These experiences provided me with the ability to integrate various technologies to effectively solve unexplored problems. 
-  Tenho experiência no desenvolvimento de aplicações web personalizadas para a visualização de dados e na implementação de aprendizado de máquina não supervisionado. Durante minha graduação, assumi a responsabilidade pela prototipagem e codificação completa de projetos de pesquisa institucionais. Estive envolvido tanto na definição da arquitetura dos sistemas (dimensionamento de clusters, integração, escalabilidade, distribuição e paralelização dos fluxos de trabalho), quanto na parte de ciência de dados (processamento e agrupamento de dados, análises exploratórias e visualização dos resultados). Além disso, liderei o processo de implantação segura dos Web Apps desenvolvidos. Essas experiências me proporcionaram a habilidade de integrar diversas tecnologias para solucionar problemas pouco explorados de forma eficaz.</h3>
+</h3>
 
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
