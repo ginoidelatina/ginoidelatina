@@ -1,6 +1,6 @@
-<h1 align="center">Oi, me chamo Natália Marques.</h1>
+<h1 align="center">Hi, my name is Natália Marques</h1>
 <h3 align="center">
- I have experience in developing custom web applications for data visualization and implementing unsupervised machine learning. During my undergraduate studies, I took on the responsibility for prototyping and full coding of institutional research projects. I was involved in both defining the system architecture (cluster scaling, integration, scalability, distribution, and workflow parallelization) and in the data science aspect (data processing and clustering, exploratory analysis, and visualization of results). Additionally, I led the secure deployment process of the developed web apps. These experiences provided me with the ability to integrate various technologies to effectively solve unexplored problems. 
+ I develop custom web applications for data visualization and have experience in both supervised and unsupervised machine learning. During my undergraduate studies, I took on the responsibility for prototyping and coding of institutional research projects. I defined system architecture, covering cluster scaling, integration, scalability, distribution, and workflow parallelization. In the data science domain, I handled tasks like data processing, clustering, exploratory analysis, and results visualization. I also managed the secure deployment process for developed web apps, showcasing my ability to integrate technologies effectively to solve complex problems.
 </h3>
 
 <h3 align="left">Connect with me:</h3>
